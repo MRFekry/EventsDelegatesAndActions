@@ -1,0 +1,13 @@
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\bin\Debug\netcoreapp3.1\DelegatesExercise.exe
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\bin\Debug\netcoreapp3.1\DelegatesExercise.deps.json
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\bin\Debug\netcoreapp3.1\DelegatesExercise.runtimeconfig.json
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\bin\Debug\netcoreapp3.1\DelegatesExercise.runtimeconfig.dev.json
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\bin\Debug\netcoreapp3.1\DelegatesExercise.dll
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\bin\Debug\netcoreapp3.1\DelegatesExercise.pdb
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\obj\Debug\netcoreapp3.1\DelegatesExercise.csprojAssemblyReference.cache
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\obj\Debug\netcoreapp3.1\DelegatesExercise.AssemblyInfoInputs.cache
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\obj\Debug\netcoreapp3.1\DelegatesExercise.AssemblyInfo.cs
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\obj\Debug\netcoreapp3.1\DelegatesExercise.csproj.CoreCompileInputs.cache
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\obj\Debug\netcoreapp3.1\DelegatesExercise.dll
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\obj\Debug\netcoreapp3.1\DelegatesExercise.pdb
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\DelegatesExercise\obj\Debug\netcoreapp3.1\DelegatesExercise.genruntimeconfig.cache
