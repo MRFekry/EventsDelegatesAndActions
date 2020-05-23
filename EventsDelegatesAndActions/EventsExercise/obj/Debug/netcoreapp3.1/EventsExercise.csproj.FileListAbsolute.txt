@@ -1,0 +1,13 @@
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\bin\Debug\netcoreapp3.1\EventsExercise.exe
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\bin\Debug\netcoreapp3.1\EventsExercise.deps.json
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\bin\Debug\netcoreapp3.1\EventsExercise.runtimeconfig.json
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\bin\Debug\netcoreapp3.1\EventsExercise.runtimeconfig.dev.json
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\bin\Debug\netcoreapp3.1\EventsExercise.dll
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\bin\Debug\netcoreapp3.1\EventsExercise.pdb
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\obj\Debug\netcoreapp3.1\EventsExercise.csprojAssemblyReference.cache
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\obj\Debug\netcoreapp3.1\EventsExercise.AssemblyInfoInputs.cache
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\obj\Debug\netcoreapp3.1\EventsExercise.AssemblyInfo.cs
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\obj\Debug\netcoreapp3.1\EventsExercise.csproj.CoreCompileInputs.cache
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\obj\Debug\netcoreapp3.1\EventsExercise.dll
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\obj\Debug\netcoreapp3.1\EventsExercise.pdb
+D:\Study\Projects\EventsDelegatesAndActions\EventsDelegatesAndActions\EventsExercise\obj\Debug\netcoreapp3.1\EventsExercise.genruntimeconfig.cache

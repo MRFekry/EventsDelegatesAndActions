@@ -29,6 +29,7 @@ namespace DelegatesExercise
         public static void DoWork(TestDelegateHandler testDelegateHandler)
         {
             testDelegateHandler(14, "Thiery Henry!");
+            testDelegateHandler(34, "Granit Xhaka!");
         }
 
         static void Main(string[] args)
